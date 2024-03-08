@@ -1,6 +1,5 @@
 package Tree;
 
-
 public class BST {
     public class Node{
         int val;
